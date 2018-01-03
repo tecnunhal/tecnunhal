@@ -18,3 +18,6 @@ Calendario realizado:
 - Sesión 2:	04-10-2017	(sala Reuniones de Organización)	JavaScript y DOM
 - Sesión 3:	11-10-2017	(aula CIT)	Codex y gráficos en Canvas
 - Sesión 4:	25-10-2017	(aula 8)	Geogebra con Jon Alkorta
+
+https://webdesign.tutsplus.com/tutorials/a-noobs-guide-to-threejs--cms-28639
+https://manu.ninja/webgl-3d-model-viewer-using-three-js
