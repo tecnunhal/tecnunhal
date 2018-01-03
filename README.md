@@ -45,4 +45,4 @@ Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno in
 
 ### Club HAL
 Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores. 
-![HAL](images/HAL9000.svg) HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del espacio](http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414)
+<img src='images/HAL9000.svg' width='100px'/> HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del espacio](http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414)
