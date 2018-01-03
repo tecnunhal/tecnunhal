@@ -23,7 +23,7 @@ Ejemplo de dibujos en el canvas (bitmap):
 https://nicolasserrano.github.io/CS/tools/SPLG/splg0.html 
 https://nicolasserrano.github.io/CS/tools/SPLG/art.html  
 Fuentes: https://github.com/nicolasserrano/CS/tree/master/tools/SPLG  
-Tutorial canvas: https://www.w3schools.com/tags/canvas_beginpath.asp 
+Tutorial canvas: https://www.w3schools.com/tags/canvas_beginpath.asp  
 Librería para gráficos vectoriales: http://dmitrybaranovskiy.github.io/raphael/  
 
 Gráficos 3D
