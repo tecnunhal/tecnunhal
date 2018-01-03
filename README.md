@@ -1,6 +1,6 @@
 # tecnunhal
 
-## Seminario Desarrollo de Juegos y Simuladores en la Web
+## Seminario: Desarrollo de Juegos y Simuladores en la Web
 El seminario de Desarrollo de Juegos y Simuladores en la Web est&aacute; organizado por el club HAL del departamento de Organizaci&oacute;n Industrial. En este seminario colaboran los profesores Nicolás Serrano y Josune Hernantes.
 
 Para inscribirse, enviar un email a nserrano@tecnun.es o jhernantes@tecnun.es
