@@ -33,6 +33,7 @@ Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno in
 - Interacción con el ratón
 - Interacción con el teclado
 - Interacción con la pantalla (pantallas táctiles)
+- Audio
 
 ### Session 4. Escenas 3D
 - WebGL y la librería three.js
