@@ -5,8 +5,34 @@ El seminario de Desarrollo de Juegos y Simuladores en la Web está organizado po
 
 Para inscribirse, enviar un email a nserrano@tecnun.es o jhernantes@tecnun.es
 
-## Contenido
+## ¿Cuándo?
+El seminario se realizará en 4 sesiones de 1h20' a partir del 15 de enero, con una sesión por semana. Se concretará el horario para hacerlo compatible con el mayor número de inscritos.
 
+## ¿Qué se necesita saber previamente?
+Conocer el concepto de variable, función y bucle (por ejemplo habiendo cursado Informática I). No es necesario el conocimiento de ningún lenguaje específico, puesto que se partirá desde el inicio con las herramientas a emplear (HTML5 y JavaScript).
+
+## ¿Es convalidable como alumno interno?
+Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno interno, ni se piden los requerimientos de ser alumno interno para realizarlo. Si alguno es alumno interno, puede preguntar a su director si esta tarea se puede incluir en su dedicación de alumno interno, para lo cual los profesores del seminario informarán al director del alumno.
+
+## Contenido
+### Session 1. Dibujar
+- Página Web en HTML
+- Canvas en una página Web
+- Dibujo de elementos básicos: líneas, rectángulos, arcos, curvas
+- Dibujo de imágenes (sprites)
+- El navegador para detectar errores (debugger)
+
+### Session 2. Animación
+- Bucles para dibujar distintas posiciones
+- Funciones
+- Gestión del tiempo en la animación
+- Imágenes animadas
+
+### Session 3. Escenas 3D
+
+
+### Session 4 
+- [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
 
 
 
