@@ -1,7 +1,7 @@
 # tecnunhal
 
 ## Seminario Desarrollo de Juegos y Simuladores en la Web
-El seminario de Desarrollo de Juegos y Simuladores en la Web está organizado por el club HAL del departamento de Organización Industrial. En este seminario colaboran Nicolás Serrano y Josune Hernantes.
+El seminario de Desarrollo de Juegos y Simuladores en la Web está organizado por el club HAL del departamento de Organización Industrial. En este seminario colaboran los profesores Nicolás Serrano y Josune Hernantes.
 
 Para inscribirse, enviar un email a nserrano@tecnun.es o jhernantes@tecnun.es
 
@@ -28,13 +28,16 @@ Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno in
 - Gestión del tiempo en la animación
 - Imágenes animadas
 
-### Session 3. Escenas 3D
+### Session 3. Interacción
+- Incluir al usuario en la simulación
+- Interacción con el ratón
+- Interacción con el teclado
+- Interacción con la pantalla (pantallas táctiles)
 
-
-### Session 4 
-- [3D scene (Earth)](https://nicolasserrano.github.io/Physics-for-JavaScript-Games-Animation-Simulations/examples/chapter15/earth.html)
-
-
+### Session 4. Escenas 3D
+- WebGL y la librería three.js
+- Escena, luces, camara y objetos
+- Animación en 3D.
 
 ### Créditos
 - [Drawing](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)
