@@ -8,7 +8,7 @@ El seminario de **Desarrollo de Juegos y Simuladores en la Web** est&aacute; org
 **Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es, jhernantes@tecnun.es o jsantos@tecnun.es antes del 13 de Enero.
 
 ## ¿Cu&aacute;ndo?
-El seminario se realizar&aacute; en 4 sesiones los mi&eacure;rcoles partir del 17 de enero, con una sesión por semana de 18:00 a 19:20.
+El seminario se realizar&aacute; en 4 sesiones los mi&eacute;rcoles partir del 17 de enero, con una sesión por semana de 18:00 a 19:20.
 
 ## ¿Qué se necesita saber previamente?
 Conocer el concepto de variable, funci&oacute;n y bucle (por ejemplo habiendo cursado Inform&aacute;tica I). No es necesario el conocimiento de ning&uacute;n lenguaje espec&iacute;fico, puesto que se partir&aacute; desde el inicio con las herramientas a emplear (HTML5 y JavaScript).
