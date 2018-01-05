@@ -43,7 +43,7 @@ Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno in
 - Animación en 3D.
 
 ### Cr&eacute;ditos del poster
-<img src='images/poster25.jpg' style='float:left; padding-right: 1rem' />  
+<img src='images/poster25.jpg' style='float:left; padding-right: 2rem' />  
 - [Drawing](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)  
 - [Froot Wars](https://www.adityaravishankar.com/projects/games/frootwars/)  
 - [Captain Rogers](http://rogers.enclavegames.com/)  
@@ -53,5 +53,5 @@ Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno in
 
 ### Club HAL
 <img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 1rem' />  
-Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores. 
+Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
 HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del espacio](http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414)
