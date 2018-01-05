@@ -5,7 +5,7 @@ Las aplicaciones en la Web permiten el acceso a las mismas desde cualquier plata
 
 El seminario de **Desarrollo de Juegos y Simuladores en la Web** est&aacute; organizado por el club HAL del departamento de Organizaci&oacute;n Industrial. En este seminario colaboran los profesores Nicolás Serrano, Josune Hernantes y Javi Santos.
 
-**Para inscribirse, enviar un email** a nserrano@tecnun.es, jhernantes@tecnun.es o jsantos@tecnun.es antes del 13 de Enero.
+**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es, jhernantes@tecnun.es o jsantos@tecnun.es antes del 13 de Enero.
 
 ## ¿Cu&aacute;ndo?
 El seminario se realizar&aacute; en 4 sesiones los miercoles partir del 17 de enero, con una sesión por semana de 18:00 a 19:20.
