@@ -22,8 +22,8 @@ Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno intern
 
 ## Contenido
 ### Sesi&oacute;n 1. Dibujar
-- Paacute;gina Web en HTML
-- Canvas en una paacute;gina Web
+- P&aacute;gina Web en HTML
+- Canvas en una p&aacute;gina Web
 - Dibujo de elementos b&aacute;sicos: l&iacute;neas, rect&aacute;ngulos, arcos, curvas
 - Dibujo de imágenes (sprites)
 - El navegador para detectar errores (debugger)
