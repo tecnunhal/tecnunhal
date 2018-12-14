@@ -32,7 +32,7 @@ Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno intern
 - Qu&eacute; es un Serious Game
 - Como dise&ntilde;r un Serious Game
 
-### Sesi&oacute;n 2. Animaci&oacute;n e interacci&oacute;n
+### Sesi&oacute;n 3. Animaci&oacute;n e interacci&oacute;n
 - Bucles para dibujar distintas posiciones
 - Gesti&oacute;n del tiempo en la animaci&oacute;n
 - Im&aacute;genes animadas
