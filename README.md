@@ -1,55 +1,45 @@
 # tecnunhal
 
-## Seminario: Desarrollo de Juegos y Simuladores en la Web
-Las aplicaciones en la Web permiten el acceso a las mismas desde cualquier plataforma y sin necesidad de realizar ninguna instalaci&oacute;n. Unido a la capacidad de interaccionar con los distintos modos de control de cada dispositivo (teclado, rat&oacute;n, pantalla), convierte a las aplicaciones en la Web en la plataforma idonea para desarrollar juegos, animaciones, simulacionres y dem&aacute;s tipos de aplicaciones que requieran interacci&oacute;n y una representaci&oacute;n gr&aacute;fica 2D o 3D. Durante el seminario se explicar&aacute;n y practicar&aacute; con las t&eacute;cnicas necesarias para el desarrollo de estas aplicaciones.
+## Seminario: Diseño y Desarrollo de Serious Games
+El serminario **Diseño y Desarrollo de Serious Games** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial. El objetivo del mismo es dar los conocimientos b&aacute;sicos para diseñar un Serious Game que se utilizar&aacute; en el futuro en las jornadas de iniciaciaci&oacute;n a la ingenieria de Tecnun.
 
-El seminario de **Desarrollo de Juegos y Simuladores en la Web** est&aacute; organizado por el club HAL del departamento de Organizaci&oacute;n Industrial. En este seminario colaboran los profesores Nicolás Serrano, Josune Hernantes y Javi Santos.
+El Serious Game tendrá elementos f&iacute;sicos, como un juego de mesa y parte digital que se implementar&aacute; como una aplicaci&aacute;n en la Web que permite el acceso a la misma desde cualquier plataforma y sin necesidad de realizar ninguna instalaci&oacute;n. Unido a la capacidad de interaccionar con los distintos modos de control de cada dispositivo (teclado, rat&oacute;n, pantalla), convierte a las aplicaciones en la Web en la plataforma idonea para desarrollar juegos, animaciones, simulacionres y dem&aacute;s tipos de aplicaciones que requieran interacci&oacute;n y una representaci&oacute;n gr&aacute;fica. Durante el seminario se explicar&aacute;n y practicar&aacute; con las t&eacute;cnicas necesarias para el desarrollo de estas aplicaciones. Se proporcionar&aacute; tambi&eacute;n informaci&oacute;n de como debe ser y dise&ntilde;ar un Serious Game.
 
-**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es, jhernantes@tecnun.es o jsantos@tecnun.es antes del 13 de Enero.
+En este seminario colaboran los profesores Nicolás Serrano y Javi Santos.
+
+**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es, jhernantes@tecnun.es o jsantos@tecnun.es antes del 8 de Enero.
 
 ## ¿Cu&aacute;ndo?
-El seminario se realizar&aacute; en 4 sesiones los mi&eacute;rcoles partir del 17 de enero, con una sesión por semana de 18:00 a 19:20.
+El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 9 a 11 de enero de 9:30 a 12:30.
 
 ## ¿Qué se necesita saber previamente?
-Conocer el concepto de variable, funci&oacute;n y bucle (por ejemplo habiendo cursado Inform&aacute;tica I). No es necesario el conocimiento de ning&uacute;n lenguaje espec&iacute;fico, puesto que se partir&aacute; desde el inicio con las herramientas a emplear (HTML5 y JavaScript).
+No es necesario el conocimiento de ning&uacute;n lenguaje espec&iacute;fico, solamente haber cursado la asignatura de Inform&aacute;tica.
 
 ## ¿Es convalidable como alumno interno?
 Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno interno, ni se piden los requerimientos de ser alumno interno para realizarlo. Si alguno es alumno interno, puede preguntar a su director si esta tarea se puede incluir en su dedicación de alumno interno, para lo cual los profesores del seminario informarán al director del alumno.
 
+Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno interno si hay un grupo de alumnos interesados.
+
 ## Contenido
 ### Sesi&oacute;n 1. Dibujar
-- Página Web en HTML
-- Canvas en una página Web
+- Paacute;gina Web en HTML
+- Canvas en una paacute;gina Web
 - Dibujo de elementos b&aacute;sicos: l&iacute;neas, rect&aacute;ngulos, arcos, curvas
 - Dibujo de imágenes (sprites)
 - El navegador para detectar errores (debugger)
 
-### Sesi&oacute;n 2. Animaci&oacute;n
+### Sesi&oacute;n 2. Serious Games
+- Qu&eacute; es un Serious Game
+- Como dise&ntilde;r un Serious Game
+
+### Sesi&oacute;n 2. Animaci&oacute;n e interacci&oacute;n
 - Bucles para dibujar distintas posiciones
-- Funciones
 - Gesti&oacute;n del tiempo en la animaci&oacute;n
 - Im&aacute;genes animadas
-
-### Sesi&oacute;n 3. Interacci&oacute;n
 - Incluir al usuario en la simulación
 - Interacci&oacute;n con el ratón
 - Interacci&oacute;n con el teclado
 - Interacci&oacute;n con la pantalla (pantallas t&aacute;ctiles)
-- Audio
-
-### Sesi&oacute;n 4. Escenas 3D
-- WebGL y la librería three.js
-- Escena, luces, camara y objetos
-- Animación en 3D.
-
-### Cr&eacute;ditos del poster
-<img src='images/poster25.jpg' style='float:left; padding-right: 2rem' />  
-- [Drawing](https://nicolasserrano.github.io/pro-html5-games-17/9781484229095/9781484229095_Ch01/chapter1.html)  
-- [Froot Wars](https://www.adityaravishankar.com/projects/games/frootwars/)  
-- [Captain Rogers](http://rogers.enclavegames.com/)  
-- [Scene 3D](https://sketchfab.com/models/23f8c0f80c9641debfbe7b42d1737fb6)  
-- [Main image](https://www.flickr.com/photos/hasgaha/24054984888/in/photostream/)  
-- [Pacman image](http://pacman.wikia.com/wiki/File:Pac-man-ghosts.jpg)
 
 ### Club HAL
 <img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 1rem' />  
