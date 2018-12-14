@@ -7,7 +7,7 @@ El Serious Game tendrá elementos f&iacute;sicos, como un juego de mesa y parte 
 
 En este seminario colaboran los profesores Nicolás Serrano y Javi Santos.
 
-**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es, jhernantes@tecnun.es o jsantos@tecnun.es antes del 8 de Enero.
+**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es o jsantos@tecnun.es antes del 8 de Enero.
 
 ## ¿Cu&aacute;ndo?
 El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 9 a 11 de enero de 9:30 a 12:30.
