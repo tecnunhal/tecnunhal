@@ -7,7 +7,7 @@ El Serious Game tendrá elementos f&iacute;sicos, como un juego de mesa y parte 
 
 En este seminario colaboran los profesores Nicolás Serrano y Javi Santos.
 
-**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es o jsantos@tecnun.es antes del 8 de Enero.
+**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es antes del 8 de Enero.
 
 ## ¿Cu&aacute;ndo?
 El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 9 a 11 de enero de 9:30 a 12:30.
@@ -30,7 +30,7 @@ Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno intern
 
 ### Sesi&oacute;n 2. Serious Games
 - Qu&eacute; es un Serious Game
-- Como dise&ntilde;r un Serious Game
+- Como dise&ntilde;ar un Serious Game
 
 ### Sesi&oacute;n 3. Animaci&oacute;n e interacci&oacute;n
 - Bucles para dibujar distintas posiciones
@@ -41,7 +41,4 @@ Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno intern
 - Interacci&oacute;n con el teclado
 - Interacci&oacute;n con la pantalla (pantallas t&aacute;ctiles)
 
-### Club HAL
-<img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 1rem' />  
-Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
-HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del espacio](http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414)
+
