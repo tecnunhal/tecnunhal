@@ -3,7 +3,7 @@
 ## Seminario: Diseño y Desarrollo de Serious Games
 El serminario **Diseño y Desarrollo de Serious Games** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial. El objetivo del mismo es dar los conocimientos b&aacute;sicos para diseñar un Serious Game que se utilizar&aacute; en el futuro en las jornadas de iniciaciaci&oacute;n a la ingenieria de Tecnun.
 
-<img src='images/play-stone-network-networked-interactive-163064-640px.jpeg' style='display: block; margin-left: auto; margin-right: auto;' />  
+<img src='images/play-stone-network-networked-interactive-163064-640px.jpeg' style="display: block; margin-left: auto; margin-right: auto;" />  
 
 El Serious Game tendrá elementos f&iacute;sicos, como un juego de mesa y parte digital que se implementar&aacute; como una aplicaci&aacute;n en la Web que permite el acceso a la misma desde cualquier plataforma y sin necesidad de realizar ninguna instalaci&oacute;n. Unido a la capacidad de interaccionar con los distintos modos de control de cada dispositivo (teclado, rat&oacute;n, pantalla), convierte a las aplicaciones en la Web en la plataforma idonea para desarrollar juegos, animaciones, simulacionres y dem&aacute;s tipos de aplicaciones que requieran interacci&oacute;n y una representaci&oacute;n gr&aacute;fica. Durante el seminario se explicar&aacute;n y practicar&aacute; con las t&eacute;cnicas necesarias para el desarrollo de estas aplicaciones. Se proporcionar&aacute; tambi&eacute;n informaci&oacute;n de como debe ser y dise&ntilde;ar un Serious Game.
 
