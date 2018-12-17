@@ -12,7 +12,7 @@ En este seminario colaboran los profesores Nicolás Serrano y Javi Santos.
 **Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es antes del 8 de Enero.
 
 ## ¿Cu&aacute;ndo?
-El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 9 a 11 de enero de 15:30 a 18:30 (8:30 a 11:30 CST). El curso se podrá seguir por **videoconferencia**, por ello est&aacute; puesto en horario de tarde para poder acceder desde Am&eacute;rica.
+El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 9 a 11 de enero de 15:30 a 18:30 (8:30 a 11:30 GMT-6). El curso se podrá seguir por **videoconferencia**, por ello est&aacute; puesto en horario de tarde para poder acceder desde Am&eacute;rica.
 
 ## ¿Qué se necesita saber previamente?
 No es necesario el conocimiento de ning&uacute;n lenguaje espec&iacute;fico, solamente haber cursado la asignatura de Inform&aacute;tica.
