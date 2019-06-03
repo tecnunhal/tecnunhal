@@ -1,18 +1,16 @@
 # tecnunhal
 
-## Seminario: Diseño y Desarrollo de Serious Games
-El serminario **Diseño y Desarrollo de Serious Games** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial. El objetivo del mismo es dar los conocimientos b&aacute;sicos para diseñar un Serious Game que se utilizar&aacute; en el futuro en las jornadas de iniciaciaci&oacute;n a la ingenieria de Tecnun.
+## Seminario: Diseño y Desarrollo de Aplicaciones Web
+El serminario **Diseño y Desarrollo de Aplicaciones Web** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial y el departamento de Ingenier&iacute;a Biom&eacute;dica y Ciencias. El objetivo del mismo es dar los conocimientos b&aacute;sicos para dise&ntiled;ar aplicaciones Web. En la &uacute; sesi&ocute; se puede optar por aplicarlo al desarrollo de aplicaciones matem&aacute;ticas o para el desarrollo de aplicaciones para voluntariado y ONGs.
 
-<img src='images/play-stone-network-networked-interactive-163064-640px.jpeg' style="display: block; margin-left: auto; margin-right: auto;" />  
+<img src='images/website-1624028_640.png' style="display: block; margin-left: auto; margin-right: auto;" />  
 
-El Serious Game tendrá elementos f&iacute;sicos, como un juego de mesa y parte digital que se implementar&aacute; como una aplicaci&aacute;n en la Web que permite el acceso a la misma desde cualquier plataforma y sin necesidad de realizar ninguna instalaci&oacute;n. Unido a la capacidad de interaccionar con los distintos modos de control de cada dispositivo (teclado, rat&oacute;n, pantalla), convierte a las aplicaciones en la Web en la plataforma idonea para desarrollar juegos, animaciones, simulacionres y dem&aacute;s tipos de aplicaciones que requieran interacci&oacute;n y una representaci&oacute;n gr&aacute;fica. Durante el seminario se explicar&aacute;n y practicar&aacute; con las t&eacute;cnicas necesarias para el desarrollo de estas aplicaciones. Se proporcionar&aacute; tambi&eacute;n informaci&oacute;n de como debe ser y dise&ntilde;ar un Serious Game.
+En este seminario colaboran los profesores Carmen Blanco, Juanfran Car&iacute;as y Nicol&aacute;s Serrano.
 
-En este seminario colaboran los profesores Nicolás Serrano y Javi Santos.
-
-**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es antes del 8 de Enero.
+**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es antes del martes 11 de Enero a las 11:00 AM.
 
 ## ¿Cu&aacute;ndo?
-El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 9 a 11 de enero de 15:30 a 18:30 (8:30 a 11:30 GMT-6). El curso se podrá seguir por **videoconferencia**, por ello est&aacute; puesto en horario de tarde para poder acceder desde Am&eacute;rica.
+El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 12 a 14 de enero de 2019 de 9:30 a 11:00.
 
 ## ¿Qué se necesita saber previamente?
 No es necesario el conocimiento de ning&uacute;n lenguaje espec&iacute;fico, solamente haber cursado la asignatura de Inform&aacute;tica.
@@ -23,24 +21,23 @@ Es un seminario y por tanto no es un trabajo equiparable a la labor de alumno in
 Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno interno si hay un grupo de alumnos interesados.
 
 ## Contenido
-### Sesi&oacute;n 1. Dibujar
-- P&aacute;gina Web en HTML
-- Canvas en una p&aacute;gina Web
-- Dibujo de elementos b&aacute;sicos: l&iacute;neas, rect&aacute;ngulos, arcos, curvas
-- Dibujo de imágenes (sprites)
-- El navegador para detectar errores (debugger)
 
-### Sesi&oacute;n 2. Serious Games
-- Qu&eacute; es un Serious Game
-- Como dise&ntilde;ar un Serious Game
+Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
+- HTML
+  El lenguaje para crear páginas Web.
+- CSS
+  El diseño de las páginas Web (estilos, colores, fuentes, composición)
+- JavaScript
+  El lenguaje de programación en la Web
+- DOM
+  Manipulación del HTML y CSS con JavaScript en la propia página Web
+- JSON
+  Formato de almacenamiento e intercambio de datos con servidoresy su uso con JavaScript
+- GeoGebra
+  Creación de widgets con GeoGebra
 
-### Sesi&oacute;n 3. Animaci&oacute;n e interacci&oacute;n
-- Bucles para dibujar distintas posiciones
-- Gesti&oacute;n del tiempo en la animaci&oacute;n
-- Im&aacute;genes animadas
-- Incluir al usuario en la simulación
-- Interacci&oacute;n con el ratón
-- Interacci&oacute;n con el teclado
-- Interacci&oacute;n con la pantalla (pantallas t&aacute;ctiles)
-
+### Club HAL
+<img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 1rem' />  
+Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
+HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del espacio](http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414)
 
