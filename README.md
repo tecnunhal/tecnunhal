@@ -1,7 +1,7 @@
 # tecnunhal
 
 ## Seminario: Diseño y Desarrollo de Aplicaciones Web
-El serminario **Diseño y Desarrollo de Aplicaciones Web** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial y el departamento de Ingenier&iacute;a Biom&eacute;dica y Ciencias. El objetivo del mismo es dar los conocimientos b&aacute;sicos para dise&ntilde;ar aplicaciones Web. En la &uacute;ltima sesi&oacute; se puede optar por aplicarlo al desarrollo de aplicaciones matem&aacute;ticas o para el desarrollo de aplicaciones para voluntariado y ONGs.
+El serminario **Diseño y Desarrollo de Aplicaciones Web** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial y el departamento de Ingenier&iacute;a Biom&eacute;dica y Ciencias. El objetivo del mismo es dar los conocimientos b&aacute;sicos para dise&ntilde;ar aplicaciones Web. En la &uacute;ltima sesi&oacute;n se puede optar por aplicarlo al desarrollo de aplicaciones matem&aacute;ticas o para el desarrollo de aplicaciones para voluntariado y ONGs.
 
 <img src='images/website-1624028_640.png' style="display: block; margin-left: auto; margin-right: auto;" />  
 
