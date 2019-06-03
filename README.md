@@ -1,16 +1,16 @@
 # tecnunhal
 
 ## Seminario: Diseño y Desarrollo de Aplicaciones Web
-El serminario **Diseño y Desarrollo de Aplicaciones Web** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial y el departamento de Ingenier&iacute;a Biom&eacute;dica y Ciencias. El objetivo del mismo es dar los conocimientos b&aacute;sicos para dise&ntiled;ar aplicaciones Web. En la &uacute; sesi&ocute; se puede optar por aplicarlo al desarrollo de aplicaciones matem&aacute;ticas o para el desarrollo de aplicaciones para voluntariado y ONGs.
+El serminario **Diseño y Desarrollo de Aplicaciones Web** est&aacute; organizado por el departamento de Organizaci&oacute;n Industrial y el departamento de Ingenier&iacute;a Biom&eacute;dica y Ciencias. El objetivo del mismo es dar los conocimientos b&aacute;sicos para dise&ntilde;ar aplicaciones Web. En la &uacute;ltima sesi&oacute; se puede optar por aplicarlo al desarrollo de aplicaciones matem&aacute;ticas o para el desarrollo de aplicaciones para voluntariado y ONGs.
 
 <img src='images/website-1624028_640.png' style="display: block; margin-left: auto; margin-right: auto;" />  
 
 En este seminario colaboran los profesores Carmen Blanco, Juanfran Car&iacute;as y Nicol&aacute;s Serrano.
 
-**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es antes del martes 11 de Enero a las 11:00 AM.
+**Para inscribirse o m&aacute;s información, contactar o enviar un email** a nserrano@tecnun.es antes del martes 11 de Junio a las 11:00 AM.
 
 ## ¿Cu&aacute;ndo?
-El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 12 a 14 de enero de 2019 de 9:30 a 11:00.
+El seminario se realizar&aacute; en 3 sesiones el mi&eacute;rcoles, jueves y viernes, días 12, 13 y 14 de Junio de 2019 de 9:30 a 11:00.
 
 ## ¿Qué se necesita saber previamente?
 No es necesario el conocimiento de ning&uacute;n lenguaje espec&iacute;fico, solamente haber cursado la asignatura de Inform&aacute;tica.
