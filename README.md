@@ -23,16 +23,23 @@ Tambi&eacute;n se podr&iacute;a realizar un trabajo posterior como alumno intern
 ## Contenido
 
 Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
+### Sesi&oacute;n 1. Web
 - HTML
   El lenguaje para crear páginas Web.
 - CSS
   El diseño de las páginas Web (estilos, colores, fuentes, composición)
+
+### Sesi&oacute;n 2. JavaScript
 - JavaScript
   El lenguaje de programación en la Web
 - DOM
   Manipulación del HTML y CSS con JavaScript en la propia página Web
 - JSON
   Formato de almacenamiento e intercambio de datos con servidoresy su uso con JavaScript
+
+### Sesi&oacute;n 3. Aplicaciones
+- Codex
+  Herramienta Web para la publicaci&oacute;n y evaluaci&oacute;n de contenido STEM
 - GeoGebra
   Creación de widgets con GeoGebra
 
