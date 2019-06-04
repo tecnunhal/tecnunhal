@@ -45,7 +45,7 @@ Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
   <tr>
     <td width="50%">
 <img src='images/LogoApplikaSeminario.jpg' width='494px' style='float:left; padding-right: 1rem' />  
-<B> Applika</B> <BR>Aplicaciones para proyectos de voluntariado y ONGs
+<B> Applika</B> <BR>Aplicaciones para proyectos de voluntariado y ONGs de <a href="https://www.tecnun.es/noticias-y-eventos/actividades/sociales/que-es-tantaka-tecnun">Tantaka</a>.
     </td>
     <td>
       
