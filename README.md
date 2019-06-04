@@ -54,13 +54,10 @@ Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
 Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
 HAL es el nombre del ordenador de la nave de la película <a href="http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414" >2001: Una odisea del espacio</a>
   <br>
-  <a href="https://tecnunhal.github.io/Archivo">Seminarios anteriores</a>
+  Ver <a href="https://tecnunhal.github.io/Archivo">seminarios anteriores</a>
     </td>
   </tr>
 </table>  
-
-
-[Seminarios anteriores](Archivo)
 
 <style>
   body > div > h1:nth-child(1) {
