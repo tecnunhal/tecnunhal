@@ -48,3 +48,8 @@ HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del 
 
 [Seminarios anteriores](Archivo)
 
+<style>
+  body > div > h1:nth-child(1) {
+    display: none;
+  }
+</style>
