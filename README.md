@@ -41,10 +41,22 @@ Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
 - GeoGebra
   Creación de widgets con GeoGebra
 
+<table>
+  <tr>
+    <td>
+### Applika
+<img src='images/LogoApplikaSeminario.jpg' width='494px' style='float:left; padding-right: 1rem' />  
+Aplicaciones para proyectos de voluntariado y ONGs
+    </td>
+    <td>
 ### Club HAL
 <img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 1rem' />  
 Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
 HAL es el nombre del ordenador de la nave de la película [2001: Una odisea del espacio](http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414)
+    </td>
+  </tr>
+</table>  
+  
 
 [Seminarios anteriores](Archivo)
 
