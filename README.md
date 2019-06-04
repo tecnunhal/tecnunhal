@@ -43,7 +43,7 @@ Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
 
 <table>
   <tr>
-    <td width="50%>
+    <td width="50%">
 <img src='images/LogoApplikaSeminario.jpg' width='494px' style='float:left; padding-right: 1rem' />  
 <B> Applika</B> <BR>Aplicaciones para proyectos de voluntariado y ONGs
     </td>
