@@ -43,7 +43,7 @@ Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
 
 <table>
   <tr>
-    <td>
+    <td width="50%>
 <img src='images/LogoApplikaSeminario.jpg' width='494px' style='float:left; padding-right: 1rem' />  
 <B> Applika</B> <BR>Aplicaciones para proyectos de voluntariado y ONGs
     </td>
@@ -52,7 +52,9 @@ Las sesiones, de aproximadamente 1:30 horas cada una serán las siguientes:
 <img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 1rem' />  
 <B> Club HAL</B> <BR>
 Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
-HAL es el nombre del ordenador de la nave de la película <a href="http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414" rel="nofollow">http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414</a>
+HAL es el nombre del ordenador de la nave de la película <a href="http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414" >2001: Una odisea del espacio</a>
+  <br>
+  <a href="https://tecnunhal.github.io/Archivo">Seminarios anteriores</a>
     </td>
   </tr>
 </table>  
