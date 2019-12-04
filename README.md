@@ -1,7 +1,6 @@
 # Club HAL
       
 <img src='images/HAL9000.svg' width='100px' style='float:left; padding-right: 3em' />  
-<BR>
 Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo de los ordenadores.  
 HAL es el nombre del ordenador de la película <a href="http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414" >2001: Una odisea del espacio</a>
   <br><br><br>
