@@ -6,7 +6,7 @@ Club del departamento de Organizaci&oacute;n Industrial dedicado al uso creativo
 HAL es el nombre del ordenador de la película <a href="http://decine21.com/peliculas/2001-una-odisea-del-espacio-7414" >2001: Una odisea del espacio</a>
   <br><br><br>
 
-## Seminarios anteriores de Club Hal
+## Seminarios anteriores de Club HAL
 
 - [Seminario: Diseño y Desarrollo de Aplicaciones Web](2019-06-DisenoYDesarrolloDeAplicacionesWeb)
 - [Seminario: Diseño y Desarrollo de Serious Games](2019-01-DisenoYDesarrolloDeSeriousGames) Del 9-01-2019 al 11-01-2019
