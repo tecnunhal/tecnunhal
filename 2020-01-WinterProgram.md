@@ -1,4 +1,5 @@
-<a href="https://web.archive.org/web/20201124183351/https://tecnun.unav.edu/winter-program/course-description">Archived page</a>
+<a href="https://web.archive.org/web/20201124183351/https://tecnun.unav.edu/winter-program/course-description">Archived page</a><br>
+<a href="http://www.nicolasserrano.com/Games/">Course content</a><br>
 <div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-2">
 
 
